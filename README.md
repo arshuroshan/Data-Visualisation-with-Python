@@ -1,4 +1,4 @@
-# Data Visualisation with Python
+# PROJECT 1: Visualizations using Matplotib, Seaborn and Folium
 This project focuses on analyzing historical automobile sales data to understand how economic recessions impact different vehicle types, pricing strategies, advertising expenditures, and consumer behavior. Using Python (Pandas, Matplotlib, and Seaborn where applicable), the project explores key trends and patterns in sales performance during recession periods compared to normal economic conditions.
 
 ### What Was Done?
